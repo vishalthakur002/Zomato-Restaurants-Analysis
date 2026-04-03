@@ -1,0 +1,149 @@
+name,order_type,book_table,rate,votes,approx_cost(for two people),listed_in(type),location,cuisines
+Jalsa,Online,Yes,4.1,775,800,Buffet,Indiranagar,Italian
+Spice Elephant,Online,No,4.1,787,800,Buffet,Koramangala,North Indian
+San Churro Cafe,Online,No,3.8,918,800,Buffet,Andheri,Italian
+Addhuri Udupi Bhojana,Offline,No,3.7,88,300,Buffet,Bandra,Fast Food
+Grand Village,Offline,No,3.8,166,600,Buffet,Bandra,Fast Food
+Timepass Dinner,Online,No,3.8,286,600,Buffet,Connaught Place,Biryani
+Rosewood International Hotel - Bar & Restaurant,Offline,No,3.6,8,800,Buffet,Indiranagar,South Indian
+Onesta,Online,Yes,4.6,2556,600,Cafes,Sector 18,North Indian
+Penthouse Cafe,Online,No,4.0,324,700,other,Indiranagar,Beverages
+Smacznego,Online,No,4.2,504,550,Cafes,Park Street,Biryani
+Village Café,Online,No,4.1,402,500,Cafes,Gachibowli,Chinese
+Cafe Shuffle,Online,Yes,4.2,150,600,Cafes,Koramangala,North Indian
+The Coffee Shack,Online,Yes,4.2,164,500,Cafes,Koramangala,Desserts
+Caf-Eleven,Offline,No,4.0,424,450,Cafes,Indiranagar,Street Food
+San Churro Cafe,Online,No,3.8,918,800,Cafes,Bandra,Biryani
+Cafe Vivacity,Online,No,3.8,90,650,Cafes,Bandra,Street Food
+Catch-up-ino,Online,No,3.9,133,800,Cafes,Sector 18,South Indian
+Kirthi's Biryani,Online,No,3.8,144,700,Cafes,Park Street,Chinese
+T3H Cafe,Offline,No,3.9,93,300,Cafes,Koramangala,Chinese
+360 Atoms Restaurant And Cafe,Online,No,3.1,13,400,Cafes,Sector 18,Beverages
+The Vintage Cafe,Online,No,3.0,62,400,Cafes,Bandra,Chinese
+Woodee Pizza,Online,No,3.7,180,500,Cafes,Sector 18,Fast Food
+Cafe Coffee Day,Offline,No,3.6,28,900,Cafes,Gachibowli,Italian
+My Tea House,Online,No,3.6,62,600,Cafes,Bandra,Italian
+Hide Out Cafe,Offline,No,3.7,31,300,Cafes,Powai,Beverages
+CAFE NOVA,Offline,No,3.2,11,600,Cafes,Park Street,Fast Food
+Coffee Tindi,Online,No,3.8,75,200,Cafes,Andheri,Italian
+Sea Green Cafe,Offline,No,3.3,4,500,Cafes,Koramangala,Desserts
+Cuppa,Offline,No,3.3,23,550,Cafes,Connaught Place,Fast Food
+Srinathji's Cafe,Offline,No,3.8,148,550,Cafes,Gachibowli,South Indian
+Redberrys,Online,No,4.0,219,600,Cafes,BTM Layout,Mughlai
+Foodiction,Online,No,2.8,506,500,other,Andheri,Street Food
+Sweet Truth,Online,No,3.9,35,500,Dining,Connaught Place,Fast Food
+Ovenstory Pizza,Online,No,3.9,172,750,Dining,Bandra,Street Food
+Faasos,Online,No,4.2,415,500,other,BTM Layout,Desserts
+Behrouz Biryani,Online,No,3.9,230,650,Dining,Indiranagar,Mughlai
+Fast And Fresh,Online,No,2.8,91,400,Dining,Indiranagar,North Indian
+Szechuan Dragon,Online,No,4.2,1647,600,Dining,Gachibowli,Beverages
+Empire Restaurant,Online,No,4.4,4884,750,other,Indiranagar,Fast Food
+Maruthi Davangere Benne Dosa,Online,No,4.0,17,150,Dining,BTM Layout,Beverages
+Chaatimes,Online,No,3.8,133,200,Dining,BTM Layout,Chinese
+Havyaka Mess,Offline,No,3.9,28,300,Dining,Park Street,Street Food
+McDonald's,Online,No,3.9,286,500,Dining,Andheri,Street Food
+Domino's Pizza,Online,No,3.9,540,800,Dining,Koramangala,Chinese
+Onesta,Online,Yes,4.6,2556,600,other,Powai,North Indian
+Hotboxit,Offline,No,3.8,36,400,Dining,Sector 18,Biryani
+Kitchen Garden,Online,No,3.6,244,300,Dining,Indiranagar,South Indian
+Recipe,Online,No,4.0,804,450,Dining,Gachibowli,Fast Food
+Beijing Bites,Online,No,3.7,679,850,Dining,Indiranagar,Street Food
+Tasty Bytes,Online,No,3.1,245,300,Dining,Sector 18,South Indian
+Petoo,Offline,No,3.7,21,450,Dining,Andheri,Street Food
+Shree Cool Point,Online,No,4.1,28,150,Dining,Park Street,Biryani
+Corner House Ice Cream,Offline,No,4.3,345,400,Dining,BTM Layout,Chinese
+Biryanis And More,Online,No,4.0,618,750,Dining,Park Street,Biryani
+Roving Feast,Offline,No,4.0,1047,450,Dining,Bandra,Street Food
+FreshMenu,Online,No,3.9,627,450,Dining,Indiranagar,Chinese
+Banashankari Donne Biriyani,Online,No,3.8,104,300,Dining,Koramangala,Biryani
+Wamama,Online,Yes,4.2,354,800,other,Bandra,North Indian
+Five Star Chicken,Offline,No,3.6,55,200,Dining,Andheri,Chinese
+XO Belgian Waffle,Online,No,3.7,17,400,Dining,Indiranagar,Fast Food
+Peppy Peppers,Offline,No,4.2,244,800,other,Bandra,Street Food
+Goa 0 Km,Online,Yes,3.6,163,800,Dining,Indiranagar,Desserts
+Chinese Kitchen,Online,No,3.8,58,150,Dining,Gachibowli,Beverages
+Jeet Restaurant,Offline,Yes,4.0,808,850,Dining,Andheri,Street Food
+Cake of the Day,Offline,No,3.7,78,150,Dining,Powai,Fast Food
+Kabab Magic,Online,No,4.1,1720,400,Dining,BTM Layout,Italian
+Namma Brahmin's Idli,Online,No,3.6,34,100,Dining,Connaught Place,South Indian
+Gustoes Beer House,Offline,No,4.1,868,700,Dining,BTM Layout,South Indian
+Sugar Rush,Offline,No,3.8,39,300,Dining,BTM Layout,Beverages
+Burger King,Online,No,3.2,71,600,Dining,Bandra,Street Food
+The Good Bowl,Online,No,3.6,6,500,Dining,Andheri,Beverages
+The Biryani Cafe,Offline,No,4.1,520,300,Dining,Indiranagar,Mughlai
+Spicy Tandoor,Offline,No,4.1,0,150,Dining,Park Street,Street Food
+LSD Cafe,Offline,No,2.9,84,700,other,Connaught Place,Chinese
+Rolls On Wheels,Offline,No,3.6,299,300,Dining,Sector 18,Chinese
+Om Sri Vinayaka Chats,Offline,No,3.6,0,500,Dining,Bandra,Mughlai
+Sri Guru Kottureshwara Davangere Benne Dosa,Online,No,4.1,558,150,Dining,Connaught Place,North Indian
+Devanna Dum Biriyani Centre,Online,No,3.6,28,300,Dining,Powai,Mughlai
+Kolbeh,Offline,No,3.7,22,500,Dining,Gachibowli,Mughlai
+Upahar Sagar,Offline,No,3.8,39,350,Dining,Andheri,Beverages
+Kadalu Sea Food Restaurant,Online,No,3.8,153,500,Dining,Sector 18,Biryani
+Frozen Bottle,Online,No,4.2,146,400,Dining,Bandra,Chinese
+Parimala Sweets,Offline,No,3.5,14,200,Dining,BTM Layout,Biryani
+Vaishali Deluxe,Offline,No,3.8,42,700,Dining,Koramangala,Mughlai
+Chill Out,Offline,No,3.8,0,100,Dining,Bandra,North Indian
+The Big O Bakes,Offline,No,4.0,66,300,Dining,Koramangala,Chinese
+Meghana Foods,Online,No,4.4,4401,600,Dining,BTM Layout,Street Food
+Krishna Sagar,Offline,No,3.5,31,200,Dining,Gachibowli,Street Food
+Dessert Rose,Offline,No,3.5,7,500,Dining,Andheri,Street Food
+Chickpet Donne Biryani House,Offline,No,3.7,21,250,Dining,Indiranagar,Fast Food
+Me And My Cake,Offline,No,3.7,0,500,Dining,Bandra,Beverages
+Sunsadm,Offline,No,3.7,0,400,Dining,Park Street,Italian
+Annapooraneshwari Mess,Offline,No,3.7,0,200,Dining,BTM Layout,Mughlai
+Thanco's Natural Ice Creams,Offline,No,3.2,9,300,Dining,Bandra,Italian
+Nandhini Deluxe,Offline,No,2.6,283,600,Dining,Powai,Desserts
+Vi Ra's Bar and Restaurant,Offline,No,3.3,62,800,Dining,Gachibowli,Beverages
+Kaggis,Offline,No,3.8,64,250,Dining,Powai,Street Food
+Ayda Persian Kitchen,Offline,No,3.7,39,950,Dining,Connaught Place,Chinese
+Chatar Patar,Offline,No,3.7,65,300,Dining,Andheri,Beverages
+Polar Bear,Online,No,3.8,71,400,Dining,Connaught Place,Fast Food
+Kidambi's Kitchen,Offline,No,3.5,52,300,Dining,Bandra,Chinese
+Mane Thindi,Offline,No,3.7,130,200,Dining,Sector 18,Biryani
+Kotian Karavali Restaurant,Offline,No,3.5,10,300,Dining,Sector 18,Fast Food
+Floured-Baked With Love,Offline,No,3.8,45,400,Dining,Andheri,Biryani
+CAFE NOVA,Offline,No,3.2,11,600,Dining,Park Street,Chinese
+Cakes & Slices,Offline,No,3.5,13,300,Dining,Gachibowli,Street Food
+Spice 9,Offline,No,3.4,8,300,Dining,Park Street,Italian
+Coffee Shopee,Offline,No,3.4,0,250,Dining,Gachibowli,Mughlai
+Naveen Kabab & Biriyani Mane,Offline,No,3.2,9,300,Dining,BTM Layout,Beverages
+Katriguppe Donne Biryani,Offline,No,3.2,4,300,Dining,Bandra,Beverages
+Hari Super Sandwich,Offline,No,3.2,0,200,Dining,Connaught Place,Street Food
+Atithi Point Ande Ka Funda,Offline,No,3.1,29,150,Dining,Sector 18,Mughlai
+Just Bake,Offline,No,3.4,8,400,Dining,Powai,Biryani
+Dharwad Line Bazaar Mishra Pedha,Offline,No,3.4,0,150,Dining,Indiranagar,Italian
+Cake Bite,Offline,No,3.4,0,300,Dining,Koramangala,Mughlai
+Aarush's Food Plaza,Offline,No,3.4,0,200,Dining,Indiranagar,Biryani
+Wood Stove,Offline,No,3.4,0,150,Dining,Connaught Place,Mughlai
+Kulfi & More,Offline,No,3.4,0,150,Dining,Connaught Place,Desserts
+Kannadigas Karavali,Offline,No,3.4,0,250,Dining,Gachibowli,Beverages
+K27 - The Pub,Offline,No,3.1,30,900,Dining,Park Street,Desserts
+Bengaluru Coffee House,Online,No,4.1,201,300,Dining,Indiranagar,Mughlai
+New Mangalore Lunch Home,Offline,No,3.3,7,200,Dining,Gachibowli,Fast Food
+Coffee Bytes,Offline,No,3.1,6,100,Dining,Gachibowli,Beverages
+Parjanya Chat Zone,Offline,No,3.3,17,200,Dining,Park Street,Italian
+Kwality Wall's Swirl's Happiness Station,Offline,No,2.9,25,200,Dining,Powai,Street Food
+Soms Kitchen & Bakes,Offline,No,2.9,0,400,Dining,Sector 18,Desserts
+Banashankari Nati Style,Offline,No,2.9,0,350,Dining,Andheri,Street Food
+Ruchi Maayaka,Offline,No,3.3,8,100,Dining,Sector 18,Biryani
+Mohitesh Hut Roll,Offline,No,3.3,0,150,Dining,Koramangala,South Indian
+Sri Basaveshwar Jolada Rotti Oota,Offline,No,3.4,0,150,Dining,Indiranagar,Fast Food
+Roll Magic Fast Food,Offline,No,3.4,0,200,Dining,Sector 18,Biryani
+Foodlieious Multi Cuisine,Offline,No,3.4,0,100,Dining,Andheri,North Indian
+Thanishka Nati And Karavali Style,Offline,No,3.1,0,400,Dining,BTM Layout,Biryani
+Swathi Cool Point,Offline,No,4.1,0,200,Dining,Indiranagar,Biryani
+Kaumudis Juoice,Offline,No,3.3,0,150,Dining,Andheri,South Indian
+Amma - Manae,Offline,No,3.1,0,400,Dining,Gachibowli,Beverages
+Sri Sai Tiffannies,Offline,No,3.3,0,150,Dining,Connaught Place,Fast Food
+Hotel Andhra Speices,Offline,No,2.9,0,250,Dining,Powai,Fast Food
+Sri Murari Family Restaurant,Offline,No,2.9,0,250,Dining,Koramangala,Italian
+Aramane Donne Biriyani,Offline,No,2.9,0,150,Dining,Andheri,Biryani
+Darkolates,Offline,No,3.3,0,200,Dining,Sector 18,Fast Food
+Swaada Healthy Kitchen,Offline,No,3.3,0,350,Dining,Connaught Place,Chinese
+Gawdaru Mane Beriyani,Offline,No,3.3,0,300,Dining,Sector 18,Italian
+Melting Melodies,Offline,No,3.3,0,100,Dining,Indiranagar,Chinese
+New Indraprasta,Offline,No,3.3,0,150,Dining,Andheri,South Indian
+Anna Kuteera,Online,No,4.0,771,450,Dining,Sector 18,Chinese
+Darbar,Offline,No,3.0,98,800,Dining,Park Street,Street Food
+Vijayalakshmi,Online,No,3.9,47,200,Dining,Bandra,Mughlai
