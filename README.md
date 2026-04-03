@@ -14,7 +14,6 @@ This project analyzes Zomato restaurant data to understand customer preferences,
 - `zomato.csv` – Dataset
 - `Zomato.ipynb` – Data cleaning and analysis in Python
 - `Zomato_Dashboard.pbix` – Power BI dashboard
-- `Zomato Restaurant Analysis.pptx` – Presentation
 
 ## 🧰 Tools and Technologies
 - Python
